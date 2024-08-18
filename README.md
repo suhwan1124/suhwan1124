@@ -4,32 +4,15 @@
 **AI Developer**
 
 - **Email:** suhwan1124@naver.com
-- **GitHub:** [https://github.com/suhwan1124](https://github.com/suhwan1124)
+- **Notion:** [https://sleepy-coin-f68.notion.site/Park-suhwan-Resume-f4f1d011f7b64692a1fe77b21a000f94)
 - **Tel:** 010-3928-5201
 
 ---
 
 ## Introduction
 
-I am an AI developer who values mutual respect, collaboration, and growth, working together to achieve goals.
+서로를 존중하며, 협력하여 함께 목표를 이뤄가는 성장해 나가는 AI개발자입니다.
 
----
-
-## Education
-
-- **Suncheon National University**, Department of Multimedia Studies  
-  **March 2018 - February 2024**  
-  GPA: 3.93 / 4.5
-
----
-
-## Certifications
-
-- **Information Processing Engineer** | June 18, 2024
-- **Big Data Analysis Engineer** | July 12, 2024
-- **SQL Developer (SQLD)** | October 6, 2023
-- **Advanced Data Analytics Semi-Professional (ADsP)** | September 15, 2023
-- **Computer Proficiency Level 2** | January 28, 2022
 <script src="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.js"></script>
 <!--
 
