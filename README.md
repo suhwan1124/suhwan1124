@@ -13,7 +13,6 @@
 
 서로를 존중하며, 협력하여 함께 목표를 이뤄가는 성장해 나가는 AI개발자입니다.
 
-<script src="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.js"></script>
 <!--
 
 Here are some ideas to get you started:
