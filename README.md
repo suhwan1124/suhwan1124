@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Park Suhwan
 
-**AI Developer**
+**Data Analyst**
 
 - **Email:** suhwan1124@naver.com
 - **Notion:** [https://sleepy-coin-f68.notion.site/Park-suhwan-Resume-f4f1d011f7b64692a1fe77b21a000f94)
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-서로를 존중하며, 협력하여 함께 목표를 이뤄가는 성장해 나가는 AI개발자입니다.
+서로를 존중하며, 협력하여 함께 목표를 이뤄가는 성장해 나가는 데이터 분석가입니다.
 
 <!--
 
